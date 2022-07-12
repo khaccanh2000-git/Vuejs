@@ -1,0 +1,1 @@
+<template>setting device</template>

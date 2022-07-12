@@ -1,0 +1,38 @@
+export const roleList = [
+  {
+    stt: 1,
+    name_role: "Giám sát công tơ",
+    all_role: false,
+    read_role: false,
+    edit_role: false,
+    delete_role: false,
+    add_role: false,
+  },
+  {
+    stt: 2,
+    name_role: "Cấu hình hệ thống",
+    all_role: false,
+    read_role: false,
+    edit_role: false,
+    delete_role: false,
+    add_role: false,
+  },
+  {
+    stt: 3,
+    name_role: "Cảnh báo vận hành",
+    all_role: false,
+    read_role: false,
+    edit_role: false,
+    delete_role: false,
+    add_role: false,
+  },
+  {
+    stt: 4,
+    name_role: "Cảnh báo sự kiện",
+    all_role: false,
+    read_role: false,
+    edit_role: false,
+    delete_role: false,
+    add_role: false,
+  },
+];
